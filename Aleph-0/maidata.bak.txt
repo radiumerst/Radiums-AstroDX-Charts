@@ -1,7 +1,7 @@
-&title=SetTitle
-&artist=SetArtist
+&title=Aleph-0
+&artist=LeaF
 &first=5.8
-&des=SetDesigner
+&des=Radiumerst
 
 &lv_5=14+
 &inote_5=(250){4}1z5b[1:1],,,7-3[4:1],,,,,,,1h[4:1],2h[4:1],3h[4:1],4h[4:1],5h[4:1],6h[4:1],7h[4:1],8h[4:1],1h[4:1],8h,

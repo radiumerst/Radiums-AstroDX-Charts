@@ -1,0 +1,6 @@
+&title=デビルじゃないもん
+&artist=DECO*27 x ピノキオピー
+&first=1.1
+&des=Radiumerst
+
+&inote_5=(154){4}

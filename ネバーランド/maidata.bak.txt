@@ -1,0 +1,6 @@
+&title=ネバーランド
+&artist=DECO*27
+&first=2.9
+&des=Radiumerst
+
+&inote_5=(194)

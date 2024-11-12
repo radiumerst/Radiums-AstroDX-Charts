@@ -1,0 +1,6 @@
+&title=blender
+&artist=こめだわら×R Sound Design / MEIKO / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」
+&first=0.1
+&des=Radiumerst
+
+&inote_5=(103)1,

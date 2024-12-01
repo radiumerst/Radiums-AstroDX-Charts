@@ -1,0 +1,6 @@
+&title=化けの花
+&artist=なきそ / KAITO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」
+&first=1.36
+&des=Radiumerst
+
+&inote_5=(180)

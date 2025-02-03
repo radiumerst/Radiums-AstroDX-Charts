@@ -1,0 +1,6 @@
+&title=adrenaline!!!
+&artist=TrySail
+&first=0.7
+&des=Radiumerst
+
+&inote_5=(134)

@@ -2,6 +2,7 @@
 &artist=t+pazolite feat. ななひら
 &first=0.3
 &des=Radiumerst
+&demo_seek=78.3
 
 &lv_5=13+
 &inote_5=|| Part 1

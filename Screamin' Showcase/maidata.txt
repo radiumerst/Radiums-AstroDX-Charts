@@ -1,0 +1,6 @@
+&title=Screamin' Showcase
+&artist=t+pazolite feat. ななひら
+&first=0.25
+&des=Radiumerst
+
+&inote_5=(185)

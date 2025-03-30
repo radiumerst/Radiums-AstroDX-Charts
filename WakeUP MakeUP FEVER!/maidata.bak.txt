@@ -1,0 +1,6 @@
+&title=WakeUP MakeUP FEVER!
+&artist=曲：アオワイファイ / 歌：星咲あかり（CV：赤尾ひかる）、高瀬梨緒（CV：久保ユリカ）、藍原 椿（CV：橋本ちなみ）、桜井春菜（CV：近藤玲奈）、東雲つむぎ（CV：和泉風花）
+&first=1.1
+&des=Radiumerst
+
+&inote_5=(126)

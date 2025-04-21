@@ -1,0 +1,6 @@
+&title=MY GLORY WANTED!!!
+&artist=曲：Kijibato／歌：R.B.P. [九條 楓(CV：佳村 はるか)、逢坂 茜(CV：大空 直美)、珠洲島 有栖(CV：長縄 まりあ)]
+&first=1.1
+&des=Radiumerst
+
+&inote_5=(240)

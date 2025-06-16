@@ -1,0 +1,6 @@
+&title=black bullet
+&artist=fripSide
+&first=0.7
+&des=
+
+&inote_5=(155)

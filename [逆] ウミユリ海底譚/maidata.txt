@@ -1,0 +1,9 @@
+&title=[宴] ウミユリ海底譚 [?]
+&artist=n-buna
+&first=0
+&des=
+&wholebpm=120
+&demo_seek=61.92
+&demo_len=16.18
+&lv_7=逆
+&inote_7=(120){1},

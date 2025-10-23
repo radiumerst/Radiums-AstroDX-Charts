@@ -1,8 +1,0 @@
-﻿&title=
-&artist=
-&first=0
-&lv_5=1
-&des_5=
-&inote_5=
-(125){4},
-E
